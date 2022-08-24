@@ -1,7 +1,7 @@
-# WPPConnect Team
+# 
 
 
-## _WPPConnect Server_
+## _ Server_
 
 [![npm version](https://img.shields.io/npm/v/@wppconnect/server.svg?color=green)](https://www.npmjs.com/package/@wppconnect/server)
 [![Downloads](https://img.shields.io/npm/dm/@wppconnect/server.svg)](https://www.npmjs.com/package/@wppconnect/server)
@@ -13,18 +13,12 @@
 
 
 
-Wppconnect Server is a ready-to-use API, just download, install, and start using, simple as that.
+ Server is a ready-to-use API, just download, install, and start using, simple as that.
 
 - Javascript ES6
 - NodeJS
 - Restfull
 
-## Our online channels
-
-[![Discord](https://img.shields.io/discord/844351092758413353?color=blueviolet&label=Discord&logo=discord&style=flat)](https://discord.gg/JU5JGGKGNG)
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-32AFED?logo=telegram)](https://t.me/wppconnect)
-[![WhatsApp Group](https://img.shields.io/badge/WhatsApp-Group-25D366?logo=whatsapp)](https://chat.whatsapp.com/C1ChjyShl5cA7KvmtecF3L)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCD7J9LG08PmGQrF5IS7Yv9A?label=YouTube)](https://www.youtube.com/c/wppconnect)
 
 ## Documentations
 Access our documentation on [postman](https://documenter.getpostman.com/view/9139457/TzshF4jQ) 
