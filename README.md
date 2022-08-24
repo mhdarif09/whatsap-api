@@ -43,7 +43,6 @@ Or Swagger UI in your server. Acess router: "IP:PORT/api-docs"
 
 ## Libraries Used
 
-- WPPConnect
 - Axios
 - Bcrypt
 - Cors
